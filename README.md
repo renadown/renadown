@@ -9,6 +9,7 @@ SKILLS:
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://avatars.githubusercontent.com/u/44036562?s=400&v=4">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://i.imgur.com/HsdAOAZ.png">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://w7.pngwing.com/pngs/434/923/png-transparent-grafana-hd-logo.png">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://styles.redditmedia.com/t5_30tg9/styles/communityIcon_umpkxi2ilg671.png?width=256&s=b6136dca6cba1c368d59601e403dfe5c933dbc43">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/226/226772.png">
 
